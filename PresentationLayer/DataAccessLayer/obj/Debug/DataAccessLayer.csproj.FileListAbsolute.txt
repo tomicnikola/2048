@@ -1,0 +1,6 @@
+C:\Users\Nikola\Desktop\3-godina-prvi semestar\Softversko\SI_Project_2048-main\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Nikola\Desktop\3-godina-prvi semestar\Softversko\SI_Project_2048-main\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Nikola\Desktop\3-godina-prvi semestar\Softversko\SI_Project_2048-main\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\3-godina-prvi semestar\Softversko\SI_Project_2048-main\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\3-godina-prvi semestar\Softversko\SI_Project_2048-main\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Nikola\Desktop\3-godina-prvi semestar\Softversko\SI_Project_2048-main\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
